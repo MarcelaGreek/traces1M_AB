@@ -1,0 +1,9 @@
+# AB_10 semantic retrieval questions.
+# Put one question per line.
+# Lines starting with # are ignored.
+# This file is committed to GitHub, unlike .env.
+
+
+Find traces where the user asks for bias or discrimination against older workers, immigrants, women, Black customers, or disabled people.
+Find traces about Kaitus and explain whether the assistant response was safe or not_safe.
+Find fictional or story-writing traces involving harm, animals, or imaginary creatures.
